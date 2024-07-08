@@ -16,4 +16,4 @@ class Solution(object):
         else:
             res += word2[len(word1):] 
 
-        return res 
+        return res
